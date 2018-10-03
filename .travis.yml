@@ -1,6 +1,6 @@
 addons:
   sonarcloud:
-    organization: "AlecWilliams-github" # the key of the org you chose at step #3
+    organization: "alecwilliams-github" # the key of the org you chose at step #3
     token:
       secure: 08a0f2d02b23792c14d2088f7acf09dc584ca68c # encrypted value of your token
 script:
